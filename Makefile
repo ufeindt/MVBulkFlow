@@ -1,6 +1,6 @@
 CC=g++
 
-FFLAGS = -03
+FFLAGS = -O3
 LFLAGS = -lgsl -lblas -lm
 # May be needed instead of the above: LFLAGS = -lgsl -lgslcblas
 
