@@ -10,6 +10,7 @@
 #define pi 3.141592653589793
 #endif
 
+#include <cstdlib>
 #include <math.h>
 #include <iostream>
 #include <fstream>

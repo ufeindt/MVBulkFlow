@@ -9,6 +9,7 @@
 
 #define pi 3.141592653589793
 
+#include <cstdlib>
 #include <stdio.h>
 #include <iostream>
 #include <fstream>

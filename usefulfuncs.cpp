@@ -10,10 +10,14 @@
 #define pi 3.14159265358979323846264338328 
 #endif
 
+#include <cstdlib>
 #include <stdio.h>
 #include <iostream>
 #include <math.h>
 #include <vector>
+#include <string.h>
+#include <algorithm>
+
 
 using namespace std;
 
